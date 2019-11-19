@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Top Companies</string>
+
+    <string-array name="company">
+        <item>ICBC</item>
+        <item>JPMorgan Chase</item>
+        <item>China Construction Bank</item>
+        <item>Agricultural Bank of China</item>
+        <item>Bank of America</item>
+        <item>Apple</item>
+        <item>Ping an Insurance Group</item>
+        <item>Bank of China</item>
+        <item>Royal Dutch Shell</item>
+        <item>Wells Fargo</item>
+        <item>ExxonMobil</item>
+        <item>ATnT</item>
+        <item>Samsung Electronics</item>
+        <item>Citigroup</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>China</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>China</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>China</item>
+        <item>Netherlands</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>South Korea</item>
+        <item>United States</item>
+    </string-array>
+
+    <string-array name="industry">
+        <item>Major Banks</item>
+        <item>Major Banks</item>
+        <item>Major Banks</item>
+        <item>Regional Banks</item>
+        <item>Major Banks</item>
+        <item>Computer Hardware</item>
+        <item>Diversified Insurance</item>
+        <item>Major Banks</item>
+        <item>Oil and Gas Operations</item>
+        <item>Major Banks</item>
+        <item>Oil and Gas Operations</item>
+        <item>Telecommunications services</item>
+        <item>Semiconductors</item>
+        <item>Major Banks</item>
+    </string-array>
+
+    <string-array name="ceo">
+        <item>Shu Gu</item>
+        <item>Jamie Dimon</item>
+        <item>Wang Zuji</item>
+        <item>Huan Zhao</item>
+        <item>Brian T. Moynihan</item>
+        <item>Tim Cook</item>
+        <item>Ma Mingzhe</item>
+        <item>Chen Siqing</item>
+        <item>Bernardus Cornelis Margriet van Beurden</item>
+        <item>Timothy Allen Sloan</item>
+        <item>Darren Woods</item>
+        <item>Randall Stephenson</item>
+        <item>Hyun-Suk Kim</item>
+        <item>Michael L. Louis Corbat</item>
+    </string-array>
+
+    <string-array name="description">
+        <item> engages in the provision of commercial banking and financial services. It operates through the following business segments: Corporate Banking, Personal Banking, Treasury Operations, and Others.</item>
+        <item> is a financial holding company, which provides financial and investment banking services. It offers a range of investment banking products and services in all major capital markets, including advising on corporate strategy and structure; capital-raising in equity and debt markets; sophisticated risk management; market-making in cash securities and derivative instruments; and prime brokerage and research.</item>
+        <item> engages in the provision of financial and banking services. It operates through the following segments: Corporate Banking, Personal Banking, Treasury Business, and Others.</item>
+        <item> engages in the provision of international commercial banking and financial services. The company operates its business through the following segments: Corporate Banking, Personal Banking, Treasury Operations and Others and Unallocated.</item>
+        <item> is a bank and financial holding company, which engages in the provision of banking and nonbank financial services.</item>
+        <item> engages in the design, manufacture, and marketing of mobile communication, media devices, personal computers, and portable digital music players. </item>
+        <item> engages in the provision of financial products and services. The company primarily engages in the business of insurance, banking and investment.</item>
+        <item> engages in the provision of banking and related financial services such as commercial and investment banking, and insurance and investment services.</item>
+        <item> engages in the oil and natural gas production. It operates through three segments: Upstream, Downstream, and Corporate. </item>
+        <item> is a bank holding company that engages in the provision of banking, insurance, investments, mortgage, and consumer and commercial finance.</item>
+        <item> engages in the exploration, development, and distribution of oil, gas, and petroleum products. It operates through the following segments: Upstream, Downstream, and Chemical</item>
+        <item> is a holding company, which engages in the provision of telecommunications and digital entertainment services. It operates through the following segments: Business Solutions, Entertainment Group, Consumer Mobility, and International.</item>
+        <item> engages in the manufacturing and selling of electronics and computer peripherals.</item>
+        <item> is a global financial services holding company specializes in banking and financial solutions. It offers a range of products and services among individuals, corporations, governments and institutions such as savings, checking, online banking, individual retirements accounts, credit cards; personal, student, and commercial real estate loans, cash management services, home equity, and bill consolidation, as well as online banking services, cash management, transactions, trade, securities, and fund services.</item>
+    </string-array>
+
+
+</resources>
